@@ -1,0 +1,3 @@
+{
+"wheat": { "stages": 3, "plantEnergy": 5, "harvestYield": 1, "growthMs": [0, 3000, 6000] }
+}

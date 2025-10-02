@@ -1,0 +1,9 @@
+[
+{
+"id": "v1_trade",
+"giver": "villager1",
+"text": "Bring 3 wood for 2 crops",
+"requires": { "wood": 3 },
+"rewards": { "crops": 2 }
+}
+]
